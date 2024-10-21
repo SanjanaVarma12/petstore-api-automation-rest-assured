@@ -1,0 +1,25 @@
+{
+    "name": "My Test Suite",
+    "type": "functional",
+    "version": "1.0",
+    "testCounts": {
+        "total": 5,
+        "passed": 4,
+        "failed": 1,
+        "skipped": 0
+    },
+    "history": [
+        {
+            "date": "2024-10-01T12:00:00Z",
+            "passed": 5,
+            "failed": 0,
+            "skipped": 0
+        },
+        {
+            "date": "2024-10-10T12:00:00Z",
+            "passed": 4,
+            "failed": 1,
+            "skipped": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sanjana Varma",
+  "type": "Rest Assured Api Automation",
+  "url": "https://petstore3.swagger.io",
+  "start": "2024-10-20T12:00:00Z",  // Use a valid timestamp
+  "stop": "2024-10-20T13:00:00Z",   // Use a valid timestamp
+  "fullName": "Sanjana Varma",
+  "reportName": "Rest Assured API Automation Report"
+}
